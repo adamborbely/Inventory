@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<Products xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="PersistentStore">
+  <ProductList>
+    <Product xsi:type="BookProduct">
+      <Price>200</Price>
+      <Name>Maki</Name>
+      <NumOfPages>342</NumOfPages>
+    </Product>
+    <Product xsi:type="BookProduct">
+      <Price>345</Price>
+      <Name>Makos</Name>
+      <NumOfPages>341</NumOfPages>
+    </Product>
+    <Product xsi:type="CDProduct">
+      <Price>546</Price>
+      <Name>Lajhar Lajko</Name>
+      <NumOfTracks>12</NumOfTracks>
+    </Product>
+    <Product xsi:type="CDProduct">
+      <Price>345</Price>
+      <Name>Lajhar</Name>
+      <NumOfTracks>12</NumOfTracks>
+    </Product>
+  </ProductList>
+</Products>
